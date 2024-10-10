@@ -7,7 +7,7 @@ target/
 .project
 
 # Maven Wrapper 관련 디렉터리
-.mvn/wrapper/maven-wrapper.jar
+.mvn/
 
 # OS 관련 파일 (Mac)
 .DS_Store
