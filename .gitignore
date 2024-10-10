@@ -1,14 +1,26 @@
-# 빌드 디렉토리
-/target/
+# 빌드 디렉터리 (Maven, Gradle 등)
+target/
 
-# IDE 관련 파일 (Eclipse, STS 등)
+# Eclipse/STS 설정 파일
+/.settings/
 /.classpath
 /.project
-/.settings/
 
-# MacOS 관련 파일
-.DS_Store
+# Maven Wrapper 관련 디렉터리
+/.mvn/wrapper/maven-wrapper.jar
+
+# OS 관련 파일 (Mac)
+/.DS_Store
 
 # 로그 파일
 *.log
-/logs/
+
+# 바이너리 및 컴파일된 파일
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA 관련 파일
+/.idea/
+/*.iml
