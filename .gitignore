@@ -3,11 +3,11 @@ target/
 
 # Eclipse/STS 설정 파일
 .settings/
-.classpath
-.project
+.classpath/
+.project/
 
 # Maven Wrapper 관련 디렉터리
-.mvn
+.mvn/
 
 # OS 관련 파일 (Mac)
 .DS_Store
