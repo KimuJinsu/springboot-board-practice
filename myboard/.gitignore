@@ -2,15 +2,15 @@
 target/
 
 # Eclipse/STS 설정 파일
-/.settings/
-/.classpath
-/.project
+.settings/
+.classpath
+.project
 
 # Maven Wrapper 관련 디렉터리
-/.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
 
 # OS 관련 파일 (Mac)
-/.DS_Store
+.DS_Store
 
 # 로그 파일
 *.log
@@ -22,5 +22,5 @@ target/
 *.ear
 
 # IntelliJ IDEA 관련 파일
-/.idea/
-/*.iml
+.idea/
+*.iml
